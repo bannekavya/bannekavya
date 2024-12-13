@@ -1,0 +1,7 @@
+h1{
+    color:red;
+    background-color: orange;
+    padding: 10px;margin: 10px;
+    text-shadow: 0 0 15px;
+    border: 2px solid green; 
+}
